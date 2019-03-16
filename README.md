@@ -1,1 +1,3 @@
-# kaggle_shakeup_visualisation
+# Readme
+
+This repo is to store some random shakeups for kaggle competition
